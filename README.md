@@ -1,2 +1,2 @@
-# Learning-Curve-App
+# Learning Curve App
  App development for personal project
